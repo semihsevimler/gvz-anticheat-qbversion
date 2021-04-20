@@ -7,7 +7,7 @@ PerformHttpRequest(Config.DiscordWebhook, function(err, text, headers) end, 'POS
             ['icon_url'] = 'https://cdn.discordapp.com/attachments/785071461516836874/802859048495349770/G3VEZE.png'
         },
         ['footer'] = {
-            ['text'] = 'gvz-anticheat 1.1'
+            ['text'] = 'gvz-anticheat 1.2'
         },
         ['color'] = 12914,
         ['description'] = 'Anticheat Başlatıldı',
